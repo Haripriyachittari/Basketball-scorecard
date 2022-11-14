@@ -1,3 +1,7 @@
 # Basketball-scorecard
 
-![Screenshot_6](https://user-images.githubusercontent.com/117892673/201643177-aeddd832-5039-4b62-b520-28e24dfba013.png)
+website link
+
+https://basket-ball-scorecard.netlify.app/
+
+![Screenshot_7](https://user-images.githubusercontent.com/117892673/201644358-40499b07-deee-4368-b1c6-86d7a0e7752f.png)
